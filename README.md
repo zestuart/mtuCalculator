@@ -1,4 +1,4 @@
-mtuCalc
+mtuCalculator
 =======
 
 Verifies MTU along the link for the host specified, as determined by the routing table.
